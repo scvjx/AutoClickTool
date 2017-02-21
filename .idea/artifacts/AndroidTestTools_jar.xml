@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="AndroidTestTools:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AndroidTestTools_jar</output-path>
+    <root id="root">
+      <element id="archive" name="AndroidTestTools.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="D:/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="AndroidTestTools" />
+      </element>
+    </root>
+  </artifact>
+</component>
